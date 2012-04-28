@@ -1,0 +1,48 @@
+<projectDescription>
+  <id>1321142397935</id>
+  <name>Main</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/margo/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/margo/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp>file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/Main.fla</defaultApp>
+  <rootURI>file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="GameClient.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/game/GameClient.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/Main.as</uri>
+    <uri label="Main.swf">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/Main.swf</uri>
+    <uri label="Weapons.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/game/engine/weapon/Weapons.as</uri>
+    <uri label="ShootingHandler.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/game/engine/weapon/ShootingHandler.as</uri>
+    <uri label="KeyObject.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/utils/interactions/KeyObject.as</uri>
+    <uri label="MouseObject.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/utils/interactions/MouseObject.as</uri>
+    <uri label="Controls.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/game/engine/controls/Controls.as</uri>
+    <uri label="Menu.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.8/com/ilm/menu/Menu.as</uri>
+    <uri label="MovementHandler.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/engine/objects/MovementHandler.as</uri>
+    <uri label="Main.fla">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/Main.fla</uri>
+    <uri label="GameClient.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/GameClient.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/Main.as</uri>
+    <uri label="ShootingHandler.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/engine/weapon/ShootingHandler.as</uri>
+    <uri label="Weapons.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/engine/weapon/Weapons.as</uri>
+    <uri label="Player.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/content/Player.as</uri>
+    <uri label="Ball.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/engine/objects/Ball.as</uri>
+    <uri label="Controls.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.7/com/ilm/game/engine/controls/Controls.as</uri>
+    <uri label="ShootingHandler.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/game/engine/weapon/ShootingHandler.as</uri>
+    <uri label="BaseMenu.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/menu/engine/BaseMenu.as</uri>
+    <uri label="Menu.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/menu/Menu.as</uri>
+    <uri label="CreditsPage.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/menu/content/CreditsPage.as</uri>
+    <uri label="ButtonCore.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/utils/buttons/ButtonCore.as</uri>
+    <uri label="Weapons.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/game/engine/weapon/Weapons.as</uri>
+    <uri label="Player.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/game/content/Player.as</uri>
+    <uri label="Field.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/utils/display/Field.as</uri>
+    <uri label="MainPage.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/menu/content/MainPage.as</uri>
+    <uri label="Controls.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/game/engine/controls/Controls.as</uri>
+    <uri label="GameClient.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/com/ilm/game/GameClient.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/margo/Desktop/projects/flash/as 3/ball as3/ball 1.0/v1.0.6/Main.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>

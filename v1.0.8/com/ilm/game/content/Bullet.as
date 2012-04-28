@@ -1,0 +1,1 @@
+﻿package com.ilm.game.content{	import com.ilm.game.engine.objects.Ball;	public class Bullet extends Ball	{		public function Bullet(xPos:Number, yPos:Number, velX:Number, velY:Number, diameter:Number, mass:Number)		{			super(0xFFFFFF,diameter,0,1,20,mass,true);			this.x = xPos;			this.y = yPos;			this.velX = velX;			this.velY = velY;		}	}}

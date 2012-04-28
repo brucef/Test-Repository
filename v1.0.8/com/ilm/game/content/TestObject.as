@@ -1,0 +1,1 @@
+﻿package com.ilm.game.content{	import com.ilm.game.engine.objects.Ball;		public class TestObject extends Ball	{		public function TestObject(color:uint, diameter:Number, accel:Number, friction:Number, maxSpeed:Number, mass:Number):void		{			super(color, diameter, accel, friction, maxSpeed, mass);		}	}}
